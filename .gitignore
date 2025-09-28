@@ -1,0 +1,36 @@
+# Visual Studio Code
+.vscode/
+
+# Windows thumbnail cache, Recycle Bin, etc.
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MacOS
+.DS_Store
+
+# Ignore packed addon files or release zips
+*.zip
+*.rar
+*.7z
+
+# Personal files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Other IDEs
+.idea/
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+
+# Ignore compiled binaries (if any)
+*.exe
+*.dll
+
+# End of file
