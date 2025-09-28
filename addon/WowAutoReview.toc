@@ -1,0 +1,8 @@
+## Interface: 110200
+## Title: WowAutoReview
+## Author: Kane632
+## Version: 0.1
+## Notes: Tracks account and character information.
+## SavedVariablesPerCharacter: WowAutoReviewDB
+
+WowAutoReview.lua
